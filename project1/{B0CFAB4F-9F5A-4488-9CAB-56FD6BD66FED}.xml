@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<configuration date="2013/05/09" author="e.World Technology Ltd.">
+<project id="{B0CFAB4F-9F5A-4488-9CAB-56FD6BD66FED}" file="" name="project1" product="PHPMaker" version="9.2" datetime="2013/05/09 15:33:21" languagefolder="phplang" userlevel="">
+<table id="lh_dana" name="lh_dana" caption="Alokasi Dana" userlevel="" priv="1"/>
+<table id="lh_nota" name="lh_nota" caption="Nota Harian" userlevel="" priv="1"/>
+</project></configuration>

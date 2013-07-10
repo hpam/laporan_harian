@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<configuration date="2013/05/13" author="e.World Technology Ltd.">
+<project id="{67264FB2-6364-478B-87DD-B3E0D7A29425}" file="C:\AppServ\www\laporan_harian\build\lh.pmp" name="lh" product="PHPMaker" version="9.2" datetime="2013/05/13 22:31:39" languagefolder="phplang" userlevel="0,&quot;Default&quot;,0">
+<table id="lh_dana" name="lh_dana" caption="Alokasi Dana" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="lh_nota" name="lh_nota" caption="Nota Harian" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="lh_proyek" name="lh_proyek" caption="Pendapatan Proyek" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="Laporan_Nota_Pembelian" name="Laporan Nota Pembelian" caption="Laporan Nota Pembelian" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="Laporan_Pendapatan_Proyek" name="Laporan Pendapatan Proyek" caption="Laporan Pendapatan Proyek" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="lh_input_nota" name="lh_input_nota" caption="Input Nota" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="lh_input_proyek" name="lh_input_proyek" caption="Input Proyek" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="lh_user" name="lh_user" caption="User" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="userlevelpermissions" name="userlevelpermissions" caption="userlevelpermissions" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="userlevels" name="userlevels" caption="userlevels" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="lh_gaji" name="lh_gaji" caption="Gaji Pegawai" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="lh_total_gaji" name="lh_total_gaji" caption="Slip Gaji" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>
